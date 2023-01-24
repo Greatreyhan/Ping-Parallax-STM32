@@ -4,6 +4,7 @@
 "ping_test_f1\stm32f1xx_it.o"
 "ping_test_f1\stm32f1xx_hal_msp.o"
 "ping_test_f1\dwt_delay.o"
+"ping_test_f1\ping_driver.o"
 "ping_test_f1\stm32f1xx_hal_gpio_ex.o"
 "ping_test_f1\stm32f1xx_hal_tim.o"
 "ping_test_f1\stm32f1xx_hal_tim_ex.o"

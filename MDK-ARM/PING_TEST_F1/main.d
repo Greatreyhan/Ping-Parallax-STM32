@@ -26,3 +26,4 @@ ping_test_f1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 ping_test_f1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 ping_test_f1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
 ping_test_f1\main.o: ..\..\PING_TEST_F1\DWT_Delay.h
+ping_test_f1\main.o: ..\..\PING_TEST_F1\Ping_driver.h
